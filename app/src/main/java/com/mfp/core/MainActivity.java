@@ -12,7 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
     int SCAN_ACTIVITY_CODE = 0x001;
 
-    String license = "xYKyg6WQHFe+QId/FeQXP+rZYEw3LtGgd/YAk8SOMsD/9KAHKwQaJ0UBG62adPtt/m1it2CPR00b5RC9UosHN74qKwmzsT7NIKKLaIraHyAVxJ/5a69vWcC/WSY7QjykrHyE+fFxw3PsYqIlUsAQAQ+l7i3shkzPTfI+oL75Qfs=";
+    //TODO add valid license here
+    String license = "...";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
